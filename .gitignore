@@ -1,0 +1,26 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Deno cache directory
+deno_dir/
+
+# Ignore output directory
+output/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore lock files
+deno.lock
+
+# Ignore compiled JavaScript files
+*.js
+
+# Ignore configuration files
+config.json
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
